@@ -1,4 +1,5 @@
-# Exercise to Book Chapter mapping
+# Solutions to the Rustlings course
+Rust has some of the best documentation out there. could be a new fav <3.
 
 | Exercise               | Book Chapter |
 |------------------------|--------------|
